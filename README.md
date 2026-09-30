@@ -1,4 +1,4 @@
-# Panel de Telemetría F1: Verstappen vs Pérez
+# Panel de Telemetría F1: API F1
 
 Este proyecto es una aplicación de escritorio desarrollada en Python que extrae, visualiza y analiza datos de telemetría de Fórmula 1 en tiempo real. Utilizando la API de OpenF1, el sistema establece un duelo de métricas entre los pilotos Max Verstappen (1) y Sergio Pérez (11) a través de una arquitectura concurrente de productor-consumidor.
 
